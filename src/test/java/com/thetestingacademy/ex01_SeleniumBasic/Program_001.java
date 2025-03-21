@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class TestPrintTitle {
+public class Program_001 {
     @Description("Open the URL and get the title")
     @Test
     public void test_title(){
