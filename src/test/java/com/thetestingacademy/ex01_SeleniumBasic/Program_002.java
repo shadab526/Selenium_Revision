@@ -11,7 +11,7 @@ public class Program_002 {
 
     @Description("Basic Test for Get Method")
     @Test
-    public void test_case_001(){
+    public void test_case_002(){
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.google.com/");
        // driver.manage().deleteAllCookies();
@@ -21,4 +21,5 @@ public class Program_002 {
         driver.manage().window().setPosition(p);
         driver.manage().window().maximize();
     }
+
 }

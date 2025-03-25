@@ -1,7 +1,6 @@
-package com.thetestingacademy.ex02_Handling_DropDowns;
+package com.thetestingacademy.ex02_Handling_DropDowns.StaticDropdown;
 
 import io.qameta.allure.Description;
-import junit.framework.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
